@@ -5,4 +5,7 @@ On test le push/pull
 
 hello
 
+<<<<<<< HEAD
 test conflit
+=======
+>>>>>>> master
